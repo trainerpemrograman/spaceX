@@ -1,0 +1,14 @@
+{
+  "name": "spacex",
+  "version": "1.0.0",
+  "description": "Ini adalah untuk data aplikasi spaceX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spacex"
+  ],
+  "author": "Eka",
+  "license": "ISC"
+}
